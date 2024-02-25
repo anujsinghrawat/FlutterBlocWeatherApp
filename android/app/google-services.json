@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635569974018",
+    "project_id": "weatherappfirebase-733e8",
+    "storage_bucket": "weatherappfirebase-733e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635569974018:android:7b131424428c71bfd2301b",
+        "android_client_info": {
+          "package_name": "com.example.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50pyXbRfWvwwxiAqV1lpW0_doFrrt-hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
