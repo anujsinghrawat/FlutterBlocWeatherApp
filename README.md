@@ -8,7 +8,7 @@ With this app, you can get information about current and upcoming weather condit
 
 ## Getting Started
 
-To explore and contribute to *The Movies Info* app, follow these steps:
+To explore and contribute to *Weather App*, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/anujsinghrawat/FlutterBlocWeatherApp.git`
 2. Build and run the project using your preferred IDE.
